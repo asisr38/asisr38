@@ -4,11 +4,11 @@ I am Ashish Rajthala, front end developer based on Lorton, VA. I graduated from 
 
  <img src="https://media.giphy.com/media/ddx1n7bltEMnyYDfdI/giphy.gif" width="30"> **A little more about me..**
 
-🔭 I’m currently looking for job opportunity as a front end developer.  
+🔭 I’m currently looking for job opportunity as a Full Stack Java Developer.  
 🌱 I’m currently learning automation testing in selenium WebDriverusing JAVA, Python and JavaScript.  
-🤔 I’m looking for help with careear planning and job searcing as a front end developer.  
+🤔 I’m looking for help with careear planning and job searcing as a Fullstack Java Developer.  
 
-📫 How to reach me: asis.rajthala@gmail.com. 
+📫 How to reach me: asis.raj444@gmail.comgmail.com. 
 
 **Softwares and Tools I use:**. 
 
